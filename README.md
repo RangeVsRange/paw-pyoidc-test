@@ -1,2 +1,3 @@
 # paw-pyoidc-test
-codebase for pyoidctest.pythonanywhere.com
+Codebase for pyoidctest.pythonanywhere.com, a little test app for PyOIDC
+(https://github.com/rohe/pyoidc)
